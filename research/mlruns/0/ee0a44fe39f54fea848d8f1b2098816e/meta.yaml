@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/AIOPs-mlflow-pytorch/research/mlruns/0/ee0a44fe39f54fea848d8f1b2098816e/artifacts
+end_time: 1683181318968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee0a44fe39f54fea848d8f1b2098816e
+run_name: dashing-stag-259
+run_uuid: ee0a44fe39f54fea848d8f1b2098816e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683181317677
+status: 3
+tags: []
+user_id: girish

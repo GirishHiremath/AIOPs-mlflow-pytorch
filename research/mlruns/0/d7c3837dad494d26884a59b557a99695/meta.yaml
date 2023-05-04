@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/AIOPs-mlflow-pytorch/research/mlruns/0/d7c3837dad494d26884a59b557a99695/artifacts
+end_time: 1683181313891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7c3837dad494d26884a59b557a99695
+run_name: unique-roo-335
+run_uuid: d7c3837dad494d26884a59b557a99695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683181312594
+status: 3
+tags: []
+user_id: girish

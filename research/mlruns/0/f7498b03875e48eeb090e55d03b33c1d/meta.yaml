@@ -1,0 +1,15 @@
+artifact_uri: file:///home/girish/Learning/AIops/AIOPs-mlflow-pytorch/research/mlruns/0/f7498b03875e48eeb090e55d03b33c1d/artifacts
+end_time: 1683181224531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7498b03875e48eeb090e55d03b33c1d
+run_name: spiffy-rat-99
+run_uuid: f7498b03875e48eeb090e55d03b33c1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683181222759
+status: 4
+tags: []
+user_id: girish
